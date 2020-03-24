@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Babes';
+  src: url("../fonts/bebas/TTF/BebasNeueRegular.ttf") format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'Helvetica';
+  src: url("../fonts/Helvetica/lte50050.ttf");
+}
+
+@font-face {
+  font-family: 'Cambria Italic';
+  src: url('../fonts/cambria/Cambria-Italic.eot');
+  src: url('../fonts/cambria/Cambria-Italic.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/cambria/Cambria-Italic.woff') format('woff'),
+  url('../fonts/cambria/Cambria-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
